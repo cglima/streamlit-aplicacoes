@@ -29,3 +29,16 @@ python == 3.10.12
 - Dados históricos para criar um modelo para servir como base para as previsões
   - dataset: 'slr12.csv'
   - arquivo: 'regressao-linear.py'
+
+### Caso 2: Prevendo a Qualidade de Veículos (Machine Learning: Classificação)
+
+- Problema de Classificação: prever a qualidade de veículos a partir de dados de carros anteriores.
+- Precificar de forma adequada o serviço de assistência 24 horas
+- Dados históricos com as características e a qualidade dos veículos
+  - dataset: 'car.csv'
+  - arquivo: 'carros.py'
+
+## Referências
+
+- [Curso de Streamlit](https://www.udemy.com/course/aplicacoes-web-de-inteligencia-artificial-com-streamlit/)
+- [Streamlit](https://streamlit.io/)
